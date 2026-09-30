@@ -1,4 +1,4 @@
-# GenViva: AI Powered Presentation Feedback Loop and Viva Coach
+# GenViva: AI Powered Presentation Coach
 
 ## Overview
 
